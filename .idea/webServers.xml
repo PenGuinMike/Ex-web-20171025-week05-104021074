@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c8b012c9-5fde-476a-946d-35f79293e35a" name="PenGuin" url="http://120.108.117.245/~104021074">
+        <fileTransfer host="120.108.117.245" port="22" rootFolder="/home/104021074/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

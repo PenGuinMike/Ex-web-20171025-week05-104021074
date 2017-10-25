@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.st1{
+    width:3.5em;
+}
+.st2{
+
+}
+
+#wrap{
+    background-color: #71dc2f;
+    margin: 1em auto auto auto;
+    width: 650px;
+    -webkit-border-radius: 8px;
+    /*height: 400px;*/
+
+
+}
+
+#footer{
+    background-color: aquamarine;
+    color: #d719ff;
+    width: 100%;
+    -webkit-border-radius: 8px;
+}
+
+
+.header{
+    background-color: red;
+    color: darkred;
+    margin-top: 0;
+    padding-bottom: 1em;
+    padding-top: 2em;
+    background-image: linear-gradient(rgba(100,100,100,0.3),rgba(100,100,100,0.8));
+
+
+}
